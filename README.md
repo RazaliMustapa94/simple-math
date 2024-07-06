@@ -1,4 +1,4 @@
-First, run the development server:
+First, run the development server, I use node 18:
 
 ```bash
 npm run dev
@@ -9,5 +9,3 @@ pnpm dev
 # or
 bun dev
 ```
-*Note
-I use node version 18
