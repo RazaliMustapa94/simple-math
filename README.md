@@ -1,4 +1,4 @@
-First, run the development server, I use node 18:
+First, run the development server, I use node 18
 
 ```bash
 npm run dev
@@ -8,4 +8,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+
+# Serve on http://localhost:3000/
 ```
